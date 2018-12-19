@@ -84,4 +84,5 @@ console.log(nvTableau);
 console.log('La somme du tableau est égal à : ' + somme);
 console.log('La valeur maximale du tableau est : ' + maxi);
 console.log('La valeur minimale du tableau est : ' + minIs);
+console.log('git c\'est marrant');
 
